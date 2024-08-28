@@ -24,7 +24,7 @@ public class Main {
     }
 
 
-    // re
+    // added commits
     public static int calculateArea(float length , float width){
         int area = Math.round((length * width));
         return area;
